@@ -1,10 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
-namespace FlowerStoreApp.WebUI.Data
+namespace FlowerStoreApp.DataAccess.Data
 {
     public class ApplicationDbContext : IdentityDbContext
     {

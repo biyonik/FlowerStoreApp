@@ -1,6 +1,4 @@
-using System;
-
-namespace FlowerStoreApp.WebUI.Models
+namespace FlowerStoreApp.Models.ViewModels
 {
     public class ErrorViewModel
     {

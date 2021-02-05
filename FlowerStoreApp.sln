@@ -2,6 +2,12 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlowerStoreApp.WebUI", "FlowerStoreApp.WebUI\FlowerStoreApp.WebUI.csproj", "{ABF10251-AA4A-476F-B20F-189B235ADD27}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlowerStoreApp.DataAccess", "FlowerStoreApp.DataAccess\FlowerStoreApp.DataAccess.csproj", "{DEC2AECA-C53C-4307-9BA5-7CFEA9DB1DEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlowerStoreApp.Models", "FlowerStoreApp.Models\FlowerStoreApp.Models.csproj", "{EFDB938F-5EE9-456D-897B-FCDD82DF35BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlowerStoreApp.Utilities", "FlowerStoreApp.Utilities\FlowerStoreApp.Utilities.csproj", "{2D64EA4D-C89C-4260-A6F6-68C4103633E6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -11,5 +17,17 @@ Global
 		{ABF10251-AA4A-476F-B20F-189B235ADD27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{ABF10251-AA4A-476F-B20F-189B235ADD27}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ABF10251-AA4A-476F-B20F-189B235ADD27}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{DEC2AECA-C53C-4307-9BA5-7CFEA9DB1DEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEC2AECA-C53C-4307-9BA5-7CFEA9DB1DEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEC2AECA-C53C-4307-9BA5-7CFEA9DB1DEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEC2AECA-C53C-4307-9BA5-7CFEA9DB1DEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFDB938F-5EE9-456D-897B-FCDD82DF35BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFDB938F-5EE9-456D-897B-FCDD82DF35BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFDB938F-5EE9-456D-897B-FCDD82DF35BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFDB938F-5EE9-456D-897B-FCDD82DF35BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D64EA4D-C89C-4260-A6F6-68C4103633E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D64EA4D-C89C-4260-A6F6-68C4103633E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D64EA4D-C89C-4260-A6F6-68C4103633E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D64EA4D-C89C-4260-A6F6-68C4103633E6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -1,7 +1,7 @@
 ﻿using System;
 using Microsoft.EntityFrameworkCore.Migrations;
 
-namespace FlowerStoreApp.WebUI.Data.Migrations
+namespace FlowerStoreApp.DataAccess.Data.Migrations
 {
     public partial class CreateIdentitySchema : Migration
     {

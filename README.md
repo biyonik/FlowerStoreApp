@@ -1,16 +1,16 @@
-# Flower Basket App
+# Flower Store App
 
-* C#
+** C#
 <br>
-** ASP.NET Core 5.0
+*** ASP.NET Core 5.0
 <br>
-*** Razor Pages
+**** Razor Pages
 <br>
-**** Generic Repository Pattern
+***** Generic Repository Pattern
 <br>
-***** Unit Of Work Pattern
+****** Unit Of Work Pattern
 <br>
-****** Dapper ORM
+******* Dapper ORM
 <br>
 
 dil, framework ve tasarım desenleri kullanılarak oluşturulmuş bir "Çiçek Dükkanı" E-Ticaret Projesi

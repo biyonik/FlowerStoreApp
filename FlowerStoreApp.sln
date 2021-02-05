@@ -1,8 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlowerStoreApp.WebUI", "FlowerStoreApp.WebUI\FlowerStoreApp.WebUI.csproj", "{ABF10251-AA4A-476F-B20F-189B235ADD27}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABF10251-AA4A-476F-B20F-189B235ADD27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABF10251-AA4A-476F-B20F-189B235ADD27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABF10251-AA4A-476F-B20F-189B235ADD27}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
 	EndGlobalSection
 EndGlobal
